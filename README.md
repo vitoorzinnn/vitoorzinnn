@@ -1,6 +1,6 @@
 # 👨‍💻 vitoorzinnn
 
-**`Desenvolvedora FullStack`**
+**` Estudante Programação `**
 
 Me chamo Paulo Vítor Rodrigues, tenho 18 anos e sou de Brasília. Atualmente, estou terminando um curso técnico na Escola Técnica de Brasilia. Sou apaixonado por tecnologia e estou estudando Java! 
 
